@@ -10,7 +10,7 @@ public class MatchesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MatchesApplication.class, args);
-		System.out.println("Go on");
+		System.out.println("Go on matches");
 	}
 	
 	@Bean
